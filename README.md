@@ -5,6 +5,8 @@
 <h1 align="center">Hi 👋, I'm nhatqui</h1>
 - 📫 How to reach me **trannhatquicntt@gmail.com**
 
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100024607981254" target="blank">
@@ -12,6 +14,8 @@
 </a>
 <a href="https://www.instagram.com/nhatqui_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nhatqui" height="30" width="40" /></a>
 </p>
+
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -54,7 +58,9 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a> 
 </p>
+<br>
 
+<h2 align="center">📑 My Favorites Quote 📑</h2>
 
 <h2 align="center"> Github Status </h2>
 <p>
