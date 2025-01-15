@@ -61,7 +61,9 @@
 <br>
 
 <h2 align="center">📑 Mindset 📑</h2>
-
+<a href="#" target="_blank">
+  <img src="image/quote.svg" width="846" height="150" alt="tranqui268" />
+</a>
 <h2 align="center"> Github Status </h2>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranqui268&layout=compact&theme=radical&langs_count=6" height="165">
