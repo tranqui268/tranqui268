@@ -1,0 +1,23 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Nền đen với bo góc -->
+  <rect 
+    x="0" 
+    y="0" 
+    width="100%" 
+    height="100%" 
+    fill="black" 
+    rx="20" 
+    ry="20" />
+  
+  <!-- Văn bản -->
+  <text 
+    x="50%" 
+    y="50%" 
+    dominant-baseline="middle" 
+    text-anchor="middle" 
+    fill="white" 
+    font-size="24" 
+    font-family="Arial, sans-serif">
+    Success is built upon the smallest habits.
+  </text>
+</svg>
