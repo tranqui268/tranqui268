@@ -60,7 +60,7 @@
 </p>
 <br>
 
-<h2 align="center">📑 My Favorites Quote 📑</h2>
+<h2 align="center">📑 Mindset 📑</h2>
 
 <h2 align="center"> Github Status </h2>
 <p>
